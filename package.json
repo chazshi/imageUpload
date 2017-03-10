@@ -1,0 +1,17 @@
+{
+  "name": "imageupload",
+  "version": "1.0.0",
+  "description": "a file upload server handle app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "chazshi",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.0.17",
+    "iconv-lite": "^0.4.15"
+  },
+  "devDependencies": {}
+}
